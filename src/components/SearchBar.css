@@ -1,0 +1,31 @@
+.search-bar {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  background: url('https://png.pngtree.com/thumb_back/fh260/background/20231017/pngtree-icc-cricket-world-match-background-image_13943187.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 20px;
+  margin-right: 850px;
+  margin-left: auto;
+   height:15px 
+}
+
+.search-bar input {
+  width: 300px;
+  padding: 13px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.search-bar button {
+  background: url('https://png.pngtree.com/png-vector/20190411/ourmid/pngtree-vector-search-icon-png-image_924820.jpg') no-repeat center center;
+  background-size: contain;
+  width: 40px;
+  height: 28px;
+  border: none;
+  margin-left: 10px;
+  cursor: pointer;
+  border-radius: 3px;
+  
+}
